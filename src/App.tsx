@@ -16,7 +16,7 @@ export default function App() {
     <div className="min-h-screen bg-slate-50">
       <header className="border-b border-slate-200 bg-white">
         <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
-          <h1 className="font-bold text-slate-900">ExpertConnect</h1>
+          <h1 className="font-bold text-slate-900">Book Now</h1>
           <div className="space-x-2">
             <button className="rounded bg-slate-100 px-3 py-1 text-sm" onClick={() => setView("list")}>Experts</button>
             <button className="rounded bg-slate-100 px-3 py-1 text-sm" onClick={() => setView("bookings")}>My Bookings</button>

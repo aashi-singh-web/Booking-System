@@ -1,5 +1,5 @@
 {
-  "name": "ExpertConnect Real-Time Booking",
+  "name": "Book Now",
   "description": "A professional real-time booking platform connecting clients with industry experts, featuring live availability updates and instant session scheduling.",
   "requestFramePermissions": [],
   "majorCapabilities": ["real-time-sync", "booking-system"]
